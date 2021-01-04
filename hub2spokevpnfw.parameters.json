@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
     "hubVnetName": {
-        "value": "hubvnet01"
+        "value": "grpeunpnet01"
     },
     "hubVnetPrefix": {
         "value": "10.102.0.0/16"
